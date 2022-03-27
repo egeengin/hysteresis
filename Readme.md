@@ -9,10 +9,10 @@ int hysteresis(unsigned int input_percent)
 
 Hysteresis Regions:
 
-- For Analogue Input between 10 - 15: Level between 0 - 1
-- For Analogue Input between 35 - 40: Level between 1 - 2
-- For Analogue Input between 60 - 65: Level between 2 - 3
-- For Analogue Input between 85 - 90: Level between 3 - 4
+- For Analogue Input between 10 - 15: Discrete Level between 0 - 1
+- For Analogue Input between 35 - 40: DiscreteLevel between 1 - 2
+- For Analogue Input between 60 - 65: DiscreteLevel between 2 - 3
+- For Analogue Input between 85 - 90: DiscreteLevel between 3 - 4
 
 ## Compilation
 
